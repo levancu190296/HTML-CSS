@@ -1,0 +1,16 @@
+
+.header {
+    height: 250px;
+    width: 100%;
+    background-color: white;
+}
+.body {
+    height: 700px;
+    width: 100%;
+    background-color: royalblue;
+}
+.footer {
+    height: 350px;
+    width: 100%;
+    background-color: rosybrown;
+}
